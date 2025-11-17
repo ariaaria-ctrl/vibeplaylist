@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Vibe Code Playlist",
+  "description": "An AI-powered playlist generator that creates the perfect coding soundtrack based on your desired vibe. Describe your mood, and let Gemini API curate a unique list of songs to help you focus and get in the zone.",
+  "requestFramePermissions": []
+}
